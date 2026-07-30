@@ -84,7 +84,7 @@ The project includes analysis of:
 
 Interactive Dashboard:
 
-https://public.tableau.com/app/profile/husnain.afzal/viz/CyclisticBikeShareAnalysis2023_17853281844600/RiderBehaviorAnalysis
+https://public.tableau.com/app/profile/husnain.afzal/viz/CyclisticBikeShareAnalysis2023
 
 ---
 
