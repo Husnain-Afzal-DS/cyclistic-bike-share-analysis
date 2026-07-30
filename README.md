@@ -28,6 +28,14 @@ Cyclistic wants to increase the number of annual members. The objective of this 
 
 ---
 
+## 📂 Dataset Source
+
+The dataset used in this project is the Cyclistic Bike-Share dataset provided through the Google Data Analytics Professional Certificate Capstone Case Study.
+
+Original Dataset:
+https://divvy-tripdata.s3.amazonaws.com/index.html
+
+---
 ##  Data Cleaning
 
 The dataset was cleaned and validated before analysis.
