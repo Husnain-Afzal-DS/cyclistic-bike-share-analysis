@@ -104,7 +104,6 @@ presentation/
 excel/
 sql/
 dashboards/
-images/
 README.md
 ```
 
