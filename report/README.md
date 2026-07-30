@@ -1,1 +1,1 @@
-Project report files.
+This folder contains the project report.
